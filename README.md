@@ -1,2 +1,8 @@
 # AuthenticatedTransportLib
-General transport with authintication support
+General transport with authentication support
+
+Dependencies:
+* JsonRpcProcessorsLib
+* MiscUtilsLib
+* JsonNetFork
+* ObjectStateLib
